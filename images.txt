@@ -1,4 +1,4 @@
 nginx
 xilinx/vitis-ai-cpu:latest
 #支持指定架构
---platform=linux/arm64 
+--platform=linux/arm32
