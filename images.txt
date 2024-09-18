@@ -1,4 +1,3 @@
-nginx
 xilinx/vitis-ai-pytorch-cpu:latest
 #支持指定架构
 --platform=linux/arm64
